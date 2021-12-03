@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="elevation">#1e1e1e</color>
+    <color name="text_primary">#e1e1e1</color>
+    <color name="text_secondary">#939393</color>
+    <color name="accent_primary">#bb86fc</color>
+    <color name="accent_secondary">#01dec8</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
